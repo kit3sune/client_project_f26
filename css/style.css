@@ -535,6 +535,14 @@ footer a:hover {
     color: #FFCB05;
 }
 
+@media (min-width: 1200px) {
+    .container {
+        max-width: 90rem;
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+}
+
 .button {
     border: none;
     background-color: #335270;

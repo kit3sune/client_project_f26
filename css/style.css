@@ -52,9 +52,9 @@ li {
 }
 
 img {
-    width: 100%;
-    aspect-ratio: 3 / 2;
-    object-fit: cover;
+    max-width: 100%;   
+    height: auto;
+    display: block;
 }
 
 
